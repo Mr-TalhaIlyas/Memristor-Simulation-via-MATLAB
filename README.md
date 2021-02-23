@@ -1,11 +1,13 @@
 # Simulation of Memristors using MATLAB
 
 In this repo I simulate the effect of 4th basic circuit element called "Memristor" using the mathematical equations provided in this [paper](https://ieeexplore.ieee.org/document/8118008). 
+
 ![alt text](https://github.com/Mr-TalhaIlyas/Memristor-Simulation-via-MATLAB/blob/master/screens/img1.png)
 ## Introduction
 In 1971, Leon Chua hypothesized the fourth fundamental circuit component while attempting to build up a missing constitutive relationship between the electrical charge and the
 magnetic flux to complete the symmetry. Chua named this speculative nonlinear gadget, memristor (memory + resistor) since it showed the hysteresis property of the-then
 ferromagnetic center memory furthermore the dissipative qualities of a resistor. Plainly, in such gadgets, the nonlinear resistance can be remembered inconclusively by controlling the stream of the electrical charge or the magnetic flux. The memristor was proposed to have a memresistance, M and a function defined as dM=Mdq.
+
 ![alt text](https://github.com/Mr-TalhaIlyas/Memristor-Simulation-via-MATLAB/blob/master/screens/img2.png)
 ## Memristance
 
